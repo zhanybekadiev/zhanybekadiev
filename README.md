@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @zhanybekadiev
+- 👀 I’m interested in Computer Science
+- 🌱 I’m currently learning Java Development
+- 📫 How to reach me: https://t.me/zhanybekadiev
